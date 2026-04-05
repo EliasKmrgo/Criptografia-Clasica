@@ -2,7 +2,7 @@
 
 Sistema de cifrado y descifrado diseñado para periodistas de investigación, permitiendo la protección de hallazgos mediante algoritmos criptográficos clásicos.
 
-## 🚀 Instrucciones de Compilación y Ejecución
+## Instrucciones de Compilación y Ejecución
 
 ### Requisitos
 * Java JDK 17 o superior.
