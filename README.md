@@ -1,5 +1,4 @@
-# Taller de Inteligencia Computacional - Criptografía Clásica (4.1)
-
+# Criptografía Clásica
 Sistema de cifrado y descifrado diseñado para periodistas de investigación, permitiendo la protección de hallazgos mediante algoritmos criptográficos clásicos.
 
 ## Instrucciones de Compilación y Ejecución
